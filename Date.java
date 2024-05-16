@@ -1,3 +1,6 @@
+// Lianne Campbell 
+// Java QAP 5/16/2024
+
 public class Date {
     private int day;
     private int month;

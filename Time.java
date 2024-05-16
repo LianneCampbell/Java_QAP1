@@ -1,3 +1,6 @@
+// Lianne Campbell 
+// Java QAP 5/16/2024
+
 public class Time {
     private int hour;
     private int minute;

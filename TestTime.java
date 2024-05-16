@@ -1,3 +1,6 @@
+// Lianne Campbell 
+// Java QAP 5/16/2024
+
 public class TestTime {
     public static void main(String[] args) {
         // Creating two Time objects
